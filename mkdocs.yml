@@ -1,0 +1,9 @@
+site_name: Cysson's Blog
+site_url: https://cysson.github.io/
+site_author: cyssons
+theme:
+  name: material  # 使用 material 主题
+
+# 添加导航设置
+nav:
+  - Home: index.md  # 导航指向的主页文件
