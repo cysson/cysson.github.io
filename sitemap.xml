@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cysson.github.io/</loc>
-         <lastmod>2024-11-06</lastmod>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
          <loc>https://cysson.github.io/tag/</loc>
-         <lastmod>2024-11-06</lastmod>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
          <loc>https://cysson.github.io/waline/</loc>
-         <lastmod>2024-11-06</lastmod>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
          <loc>https://cysson.github.io/test/testpic/</loc>
-         <lastmod>2024-11-06</lastmod>
+         <lastmod>2024-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://cysson.github.io/%E5%AD%A6%E4%B9%A0/AI%20lerning%20note/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
          <loc>https://cysson.github.io/%E5%AD%A6%E4%B9%A0/Latex%E5%AD%A6%E4%B9%A0/</loc>
-         <lastmod>2024-11-06</lastmod>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
          <loc>https://cysson.github.io/%E5%AD%A6%E4%B9%A0/about%20the%20blog/</loc>
-         <lastmod>2024-11-06</lastmod>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
          <loc>https://cysson.github.io/%E5%AD%A6%E4%B9%A0/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</loc>
-         <lastmod>2024-11-06</lastmod>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
          <loc>https://cysson.github.io/%E9%97%B2%E8%81%8A/%E7%8E%A9/</loc>
-         <lastmod>2024-11-06</lastmod>
+         <lastmod>2024-11-07</lastmod>
     </url>
 </urlset>
